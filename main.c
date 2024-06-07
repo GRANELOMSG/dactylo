@@ -15,6 +15,7 @@ int main()
         printf("1. DEMARER\n");
         printf("2. CONFIGURER\n");
         printf("3. AIDE\n");
+        printf("4. QUITTER\n");
         scanf("%d",&ref);
     } while (ref !=0 && (ref<1 && ref>3) );
 
