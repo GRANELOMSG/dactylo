@@ -17,6 +17,7 @@ int main()
         printf("3. AIDE\n");
         printf("4. QUITTER\n");
         printf("5. RETOUR\n");
+        printf("joie");
         scanf("%d",&ref);
     } while (ref !=0 && (ref<1 && ref>3) );
 
